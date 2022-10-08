@@ -1,4 +1,6 @@
-https://user-images.githubusercontent.com/72293918/194719639-a61606b3-ecb0-4b2c-a3a3-c8b877b1da63.mp4
+Play the vid below to get started!
+
+https://user-images.githubusercontent.com/72293918/194720031-08a20009-7297-44cb-a01d-c84d533ed6e4.mp4
 
 Hey everyone, This is Kamalesh
 
