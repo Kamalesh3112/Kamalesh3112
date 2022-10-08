@@ -1,4 +1,4 @@
-### Here is my end to end goals and interests that suits your time to have some look below, gohead and explore of what I value and enjoy the most! Alright, Go on! 👋
+### Here is my end to end goals and interests that suits your time to have a kinetic read below so ...... gohead and explore of what I value and enjoy the most! Alright, Go on! 👋
 
 
 Hope you will know something about me and learn along with me!
