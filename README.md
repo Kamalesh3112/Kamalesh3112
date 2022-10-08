@@ -1,7 +1,7 @@
 ### Here is my end to end goals and interests that suits your time to have some look below, gohead and explore of what I value and enjoy the most! Alright, Go on! 👋
 
 
-Here are some ideas to get you started:
+Hope you will know something about me and learn along with me!
 
 - 🔭 I’m currently working on ... building my skills with proficient practical exposure in Data Science and Cloud Computing
 - 🌱 I’m currently learning ... DevOps tool such as Git which is scalable and open source. I love to keep myself updated with trends and patterns that emerge in this modern day technological world.
