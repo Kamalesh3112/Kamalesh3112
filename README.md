@@ -7,7 +7,7 @@ Hey everyone, This is Kamalesh
 ### Here is my end to end goals and interests that suits your time to have a kinetic read below so ...... gohead and explore of what I value and enjoy the most! Alright, Go on! 👋
 
 
-Hope you will know something about me and learn along with me!
+I am so excited along with you to explore more and get updated...
 
 - 🔭 I’m currently working on ... building my skills with proficient practical exposure in Data Science and Cloud Computing
 - 🌱 I’m currently learning ... DevOps tool such as Git which is scalable and open source. I love to keep myself updated with trends and patterns that emerge in this modern day technological world.
