@@ -20,6 +20,14 @@ I am so excited along with you to explore more and get updated...
 -->
 
 
+
+
+Connect with me through this active social media handle and professional networking medium:
+
+[Let's tweet](https://twitter.com/Kamaleshsri312S)      
+
+LinkedIn : [Do join in my professional network here](https://www.linkedin.com/in/kamalesh-s-034512/)
+
 **Stat analysis of my repositery operations**
 
 [![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamalesh3112)](https://github.com/anuraghazra/github-readme-stats)
@@ -41,3 +49,7 @@ I am so excited along with you to explore more and get updated...
 My network portfolio platforms 🌐
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,github,&perline=3)](https://skillicons.dev)
+
+Tools used:
+
+[![My Skills](https://skillicons.dev/icons?i=autocad,aws,azure,gcp,py,java,sqlite,scala,git,cassandra,discord,eclipse,firebase,flask,github,gitlab,idea,matlab,mongodb,mysql,octave,ps,stackoverflow,twitter,visualstudio,vscode,wordpress&perline=15)](https://skillicons.dev)
