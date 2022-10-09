@@ -16,7 +16,7 @@ I am so excited along with you to explore more and get updated...
 - 💬 Ask me about ... Amazon Web Services(AWS) or Google Cloud Platform(GCP) or Microsoft Azure and you can surely have a interaction in the domain related to Data Science or something related to it.
 - 📫 How to reach me: ... Reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/kamalesh-s-034512/) with a positive intro message or email ID : kamalesh.sselvaraj@outlook.com
         
-     You can find my twitter handle here: [Let's tweet](https://twitter.com/Kamaleshsri312S)    
+     You can find my twitter handle here: 🉑: [Let's tweet](https://twitter.com/Kamaleshsri312S)    
 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am so ecstatic to learn new variations of features in the Data Science world that gets updated at periodic times
