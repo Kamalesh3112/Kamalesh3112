@@ -18,3 +18,6 @@ I am so excited along with you to explore more and get updated...
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am so ecstatic to learn new variations of features in the Data Science world that gets updated at periodic times
 -->
+
+
+[![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamalesh3112)](https://github.com/anuraghazra/github-readme-stats)
