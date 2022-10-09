@@ -2,7 +2,7 @@ Play the vid below to get started!
 
 https://user-images.githubusercontent.com/72293918/194720031-08a20009-7297-44cb-a01d-c84d533ed6e4.mp4
 
-Hey everyone, This is Kamalesh
+Hey everyone, This is Kamalesh :smile:
 
 ### Here is my end to end goals and interests that suits your time to have a kinetic read below so ...... gohead and explore of what I value and enjoy the most! Alright, Go on! 👋
 
