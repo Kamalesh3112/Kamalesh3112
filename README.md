@@ -24,7 +24,11 @@ I am so excited along with you to explore more and get updated...
 
 Connect with me through this active social media handle and professional networking medium:
 
-[Let's tweet](https://twitter.com/Kamaleshsri312S)      LinkedIn : [Do join in my professional network here](https://www.linkedin.com/in/kamalesh-s-034512/)
+[Let's tweet](https://twitter.com/Kamaleshsri312S)    
+
+LinkedIn : [Do join in my professional network here](https://www.linkedin.com/in/kamalesh-s-034512/)
+
+
 
 **Stat analysis of my repositery operations**
 
