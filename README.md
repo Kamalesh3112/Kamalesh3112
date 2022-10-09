@@ -14,7 +14,7 @@ I am so excited along with you to explore more and get updated...
 - 👯 I’m looking to collaborate on ... BigData techniques.
 - 🤔 I’m looking for help with ... approaching the learning of BigData fundamentals and looking to gain practical knowledge with the techniques of BigData.
 - 💬 Ask me about ... Amazon Web Services(AWS) or Google Cloud Platform(GCP) or Microsoft Azure and you can surely have a interaction in the domain related to Data Science or something related to it.
-- 📫 How to reach me: ... Reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/kamalesh-s-034512/) with a friendly intro message or email ID : kamalesh.sselvaraj@outlook.com
+- 📫 How to reach me: ... Reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/kamalesh-s-034512/) with a positive intro message or email ID : kamalesh.sselvaraj@outlook.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am so ecstatic to learn new variations of features in the Data Science world that gets updated at periodic times
 -->
