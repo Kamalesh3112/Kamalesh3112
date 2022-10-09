@@ -23,3 +23,18 @@ I am so excited along with you to explore more and get updated...
 **Stat analysis of my repositery operations**
 
 [![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamalesh3112)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+                                                  My programming skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,sqlite,scala,git" />
+  </a>
+</p>
+
+**Cloud proficiency**
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure&perline=3)](https://skillicons.dev)
+
