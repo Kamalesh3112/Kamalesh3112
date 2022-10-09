@@ -28,7 +28,7 @@ Connect with me through this active social media handle and professional network
 
 **Stat analysis of my repositery operations**
 
-[![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamalesh3112)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kamalesh3112&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 
