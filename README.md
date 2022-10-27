@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/72293918/194720031-08a20009-7297-44cb-
 
 Hey everyone, This is Kamalesh :smile:
 
-### Here is my end to end goals and interests that suits your time to have a kinetic read below so ...... gohead and explore of what I value and enjoy the most! Alright, Go on! 👋
+### Here are my end to end goals and interests that suits your time to have a kinetic read below so ...... gohead and explore of what I value and enjoy the most! Alright, Go on! 👋
 
 
 I am so excited along with you to explore more and get updated...
