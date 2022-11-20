@@ -20,7 +20,7 @@ I am so excited along with you to explore more and get updated...
      You can find my twitter handle here: 🉑: [Let's tweet](https://twitter.com/Kamaleshsri312S)    
 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am so ecstatic to learn new variations of features in the techniques from Data Science that is used in wide areas of data analytics and machine learning applications
+- ⚡ Fun fact: ... I am so ecstatic to learn new variations of features in the techniques from Data Science that is used in wide areas of data analytics and machine learning applications. And I am so interested to learn new things and to stay updated myself about the technologies that is changing rapidly around my tech vision.
 -->
 
 **Stat analysis of my repositery operations**
