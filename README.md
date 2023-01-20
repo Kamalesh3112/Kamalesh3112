@@ -11,7 +11,7 @@ I am so excited along with you to explore more and get updated...
 
 - 🔭 I’m currently working on ... building my skills with proficient practical exposure in Data Science and Cloud Computing
 - 🌱 I’m currently learning ... DevOps tool such as Git which is scalable and open source. I love to keep myself updated with trends and patterns that emerge in this modern day technological world.
-- 👯 I’m looking to collaborate on ... Cloud and BigData techniques.
+- 👯 I’m looking to collaborate on ... Cloud and BigData techniques. I would love to interact with someone who is interested in discussing about the technologies like Artificial Intelligence and Data Science.
 - 🤔 I’m looking for help with ... approaching the learning of BigData fundamentals and looking to gain practical knowledge with the techniques of BigData.
 - 💬 Ask me about ... Google Cloud Platform(GCP) or Microsoft Azure and you can surely have a interaction in the domain related to Data Science or something related to it. I am currently learning about the services and cloud solutions of AWS....
 - I am good at creating visualization dashboards using Business Intelligence tools such as PowerBI, Tableau and Excel.
