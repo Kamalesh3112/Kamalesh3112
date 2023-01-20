@@ -13,7 +13,7 @@ I am so excited along with you to explore more and get updated...
 - 🌱 I’m currently learning ... DevOps tool such as Git which is scalable and open source. I love to keep myself updated with trends and patterns that emerge in this modern day technological world.
 - 👯 I’m looking to collaborate on ... Cloud and BigData techniques.
 - 🤔 I’m looking for help with ... approaching the learning of BigData fundamentals and looking to gain practical knowledge with the techniques of BigData.
-- 💬 Ask me about ... Amazon Web Services(AWS) or Google Cloud Platform(GCP) or Microsoft Azure and you can surely have a interaction in the domain related to Data Science or something related to it.
+- 💬 Ask me about ... Google Cloud Platform(GCP) or Microsoft Azure and you can surely have a interaction in the domain related to Data Science or something related to it. I am currently learning about the services and cloud solutions of AWS....
 - I am good at creating visualization dashboards using Business Intelligence tools such as PowerBI, Tableau and Excel.
 - 📫 How to reach me: ... Reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/kamalesh-s-034512/) with a positive intro message or email ID : kamalesh.sselvaraj@outlook.com
         
