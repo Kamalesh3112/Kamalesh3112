@@ -39,7 +39,7 @@ I am so excited along with you to explore more and get updated...
 
 **Cloud proficiency**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,azure,aws&perline=3)](https://skillicons.dev)
 
 My network portfolio platforms 🌐
 
