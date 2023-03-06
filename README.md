@@ -17,7 +17,19 @@ I am so excited along with you to explore more and get updated...
 - I am good at creating visualization dashboards using Business Intelligence tools such as PowerBI, Tableau and Excel.
 - 📫 How to reach me: ... Reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/kamalesh-s-034512/) with a positive intro message or email ID : kamalesh.sselvaraj@outlook.com
         
-     You can find my twitter handle here: 🉑: [Let's tweet](https://twitter.com/Kamaleshsri312S)    
+## Do reach me out with these below active networking platforms
+     
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kamalesh-s-034512/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/kamal_ioe/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/Kamaleshsri312S">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am so ecstatic to learn new variations of features in the techniques from Data Science that is used in wide areas of data analytics and machine learning applications. And I am so interested to learn new things and to stay updated myself about the technologies that is changing rapidly around my tech vision. Also,I like to learn about history of any topics.
