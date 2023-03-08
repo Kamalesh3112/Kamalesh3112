@@ -38,7 +38,7 @@ I am so excited along with you to explore more and get updated...
 
 **Stat analysis of my repositery operations**
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kamalesh3112&count_private=true&theme=tokyonight&showicons=true)]()
+![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamalesh3112&show_icons=true&theme=transparent)
 
 
 
