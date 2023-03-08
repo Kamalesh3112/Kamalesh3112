@@ -9,7 +9,8 @@ https://user-images.githubusercontent.com/72293918/194720031-08a20009-7297-44cb-
 
 I am so excited along with you to explore more and get updated...
 
-- 🔭 I’m currently working on ... building my skills with proficient practical exposure in Data Science and Cloud Computing
+- 🔭 I’m currently working on ... building my skills with proficient practical exposure in Data Science and Cloud Computing.
+- :technologist: I am an Artificial Intelligence Evangelist who love to get updated with recent AI trends around the world or top organizations.
 - 🌱 I’m currently learning ... DevOps tool such as Git which is scalable and open source. I love to keep myself updated with trends and patterns that emerge in this modern day technological world.
 - 👯 I’m looking to collaborate on ... Cloud and BigData techniques. I would love to interact with someone who is interested in discussing about the technologies like Artificial Intelligence and Data Science.
 - 🤔 I’m looking for help with ... approaching the learning of BigData fundamentals and looking to gain practical knowledge with the techniques of BigData.
