@@ -60,4 +60,4 @@ My network portfolio platforms 🌐
 
 Tools used:
 
-[![My Skills](https://skillicons.dev/icons?i=autocad,aws,azure,gcp,py,java,sqlite,scala,git,cassandra,discord,linux,eclipse,firebase,flask,linkedin,github,gitlab,idea,matlab,mongodb,mysql,octave,ps,stackoverflow,twitter,visualstudio,vscode,instagram,wordpress&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=autocad,azure,gcp,py,java,sqlite,scala,git,cassandra,discord,linux,eclipse,firebase,flask,linkedin,github,gitlab,idea,matlab,mongodb,mysql,octave,ps,stackoverflow,twitter,visualstudio,vscode,instagram,wordpress&perline=15)](https://skillicons.dev)
