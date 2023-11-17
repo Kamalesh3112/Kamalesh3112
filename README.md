@@ -14,9 +14,10 @@ I am so excited along with you to explore more and get updated...
 - 🌱 I’m currently learning ... DevOps tool such as Git which is scalable and open source. I love to keep myself updated with trends and patterns that emerge in this modern day technological world.
 - 👯 I’m looking to collaborate on ... Cloud and BigData techniques. I would love to interact with someone who is interested in discussing about the technologies like Artificial Intelligence and Data Science.
 - 🤔 I’m looking for help with ... approaching the learning of BigData fundamentals and looking to gain practical knowledge with the techniques of BigData.
+- My technical researching domain knowledge: Data Science, DevOps, Content Writing, Cloud Computing, Data Engineering, Artificial Intelligence, Quantum Computing, Business Intelligence, Edge Computing and Robotic Process Automation.
 - 💬 Ask me about ... Google Cloud Platform(GCP) or Microsoft Azure and you can surely have a interaction in the domain related to Data Science or Artificial Intelligence related to it through Linkedin or mail. I am currently learning about the services and cloud solutions of AWS....
 - I am good at creating visualization dashboards using Business Intelligence tools such as PowerBI, Tableau and Excel.
-- 📫 How to reach me: ... Reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/kamalesh-s-034512/) with a positive intro message or email ID : kamalesh.sselvaraj@outlook.com
+- 📫 How to reach me: ... Reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/kamalesh-s-034512/)  or email ID : kamalesh.sselvaraj@outlook.com for a productive way of communication.
         
 ## Do reach me out with these below active networking platforms
      
@@ -33,7 +34,7 @@ I am so excited along with you to explore more and get updated...
 </div>
 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am so ecstatic to learn new variations of features in the techniques from Data Science that is used in wide areas of data analytics and machine learning applications. And I am so interested to learn new things and to stay updated myself about the technologies that is changing rapidly around my tech vision. Also,I like to learn about history of any topics.
+- ⚡ Fun fact: ... I am so ecstatic to learn new variations of features in the techniques from Data Science that is used in wide areas of data analytics and machine learning applications. And I am so interested to learn new things and to stay updated myself about the technologies that is changing rapidly around my tech vision. Also,I like to learn about history of any topics. I like to communicate with new people around the global network and share anything that is from any point of view.
 -->
 
 **Stat analysis of my repositery operations**
