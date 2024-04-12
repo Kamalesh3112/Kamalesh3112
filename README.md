@@ -9,11 +9,12 @@ https://user-images.githubusercontent.com/72293918/194720031-08a20009-7297-44cb-
 
 I am so excited along with you to explore more and get updated...
 
+- 👨‍🎓 I'm an Master's Student in Artificial Intelligence at Amrita University that is mainly concentrated in Computer Science Engineering.
 - 🔭 I’m currently working on ... building my skills with proficient practical exposure in Data Science, Generative AI, Cloud Computing and Big Data.
-- :technologist: I am an Data & AI Evangelist who love to get updated with recent AI trends around the world or top organizations.
+- :technologist: I am an Data & AI Evangelist who love to get updated with recent Data & AI trends around the world or top organizations.
 - 🌱 I’m currently learning, practising DevOps, Data Engineering and Generative AI. I love to keep myself updated with trends and patterns that emerge in this modern day technological world.
 - 👯 I’m looking to collaborate on ... Artificial Intelligence, DevOps, Data Engineering and Quantum Computing. I would love to interact with someone who is interested in discussing about the technologies like Artificial Intelligence and Data Science.
-- 🤔 I’m looking for help with ... approaching the learning of BigData fundamentals and looking to gain practical knowledge with the techniques of BigData. I would love to hear about Quantum Computing if you are interested to talk more about it.
+- 🤔 I’m looking for help with ... approaching the practical collaboration in Generative AI and looking to gain practical knowledge with the techniques of Data & AI. I would love to hear about Quantum Computing if you are interested to talk more about it.
 - 👨‍🎓 My technical researching domain knowledge: Data Science, DevOps, Content Writing, Cloud Computing, Data Engineering, Artificial Intelligence, Quantum Computing, Business Intelligence, Edge Computing and Robotic Process Automation.
 - 💬 Ask me about any technical questions about any technologies that you are finding interest in and also you can surely have a interaction in the domain related to Data Science or Artificial Intelligence related to it through Linkedin or mail. I am currently learning about the services and cloud solutions of AWS....
 - I am good at creating visualization dashboards using Business Intelligence tools such as PowerBI, Tableau and Excel.
