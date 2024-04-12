@@ -18,12 +18,12 @@ I am so excited along with you to explore more and get updated...
 - 👨‍🎓 My technical researching domain knowledge: Data Science, DevOps, Content Writing, Cloud Computing, Data Engineering, Artificial Intelligence, Quantum Computing, Business Intelligence, Edge Computing and Robotic Process Automation.
 - 💬 Ask me about any technical questions about any technologies that you are finding interest in and also you can surely have a interaction in the domain related to Data Science or Artificial Intelligence related to it through Linkedin or mail. I am currently learning about the services and cloud solutions of AWS....
 - I am good at creating visualization dashboards using Business Intelligence tools such as PowerBI, Tableau and Excel.
-- 📫 How to reach me: ... Reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/kamalesh-s-034512/)  or email ID : kamalesh.sselvaraj@outlook.com for a productive way of communication.
+- 📫 How to reach me: ... Reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/kamalesh-s-my-profile/)  or email ID : kamalesh.sselvaraj@outlook.com for a productive way of communication.
         
 ## Do reach me out with these below active networking platforms
      
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kamalesh-s-034512/">
+  <a href="https://www.linkedin.com/in/kamalesh-s-my-profile/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/kamal_ioe/">
@@ -31,6 +31,9 @@ I am so excited along with you to explore more and get updated...
   </a>
   <a href="https://twitter.com/Kamaleshsri312S">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://medium.com/@kamalesh.sselvaraj">
+    <img src="https://img.shields.io/badge/MEDIUM-blog-white?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 
