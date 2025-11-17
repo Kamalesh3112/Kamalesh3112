@@ -47,7 +47,7 @@ I am so excited along with you to explore more and get updated...
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,sqlite,scala,git" />
+    <img src="https://skillicons.dev/icons?i=py,java,sqlite,git,go" />
   </a>
 </p>
 
