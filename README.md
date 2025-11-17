@@ -41,10 +41,6 @@ I am so excited along with you to explore more and get updated...
 - ⚡ Fun fact: ... I am so ecstatic to learn new variations of features in the techniques from Data Science that is used in wide areas of data analytics and machine learning applications. And I am so interested to learn new things and to stay updated myself about the technologies that is changing rapidly around my tech vision. Also,I like to learn about history of any topics. I like to communicate with new people around the global network and share anything that is from any point of view.
 -->
 
-**Stat analysis of my repositery operations**
-
-![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamalesh3112&show_icons=true&theme=transparent)
-
 
 
                                                   My programming skills
